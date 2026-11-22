@@ -1,8 +1,8 @@
-<h1 align="center">Amine Benzaarit</h1>
+<h1 align="center">Mohamed Amine Benzaarit</h1>
 
 <p align="center">
   <b>I build AI systems that keep working after the demo.</b><br>
-  Agentic AI · RAG · Python backends · Rabat, Morocco 🇲🇦
+  Agentic AI · RAG · Python backends · Rabat, Morocco
 </p>
 
 <p align="center">
@@ -44,11 +44,10 @@ I built a fleet of specialised agents, then deleted it for a single model in a l
 
 ## Selected work
 
-| | |
+| Project | What it is |
 |---|---|
 | **[AI systems showcase](https://github.com/AmineBenz0/ai-systems-showcase)** | Architecture write-ups with diagrams for work whose code is private: Rezva, my ML projects and the helpdesk system. |
 | **[HelpDesk Multi-Agent System](https://github.com/AmineBenz0/HelpDesk_Multi_Agent_System)** | Support teams were sorting 50 to 200 incident emails a day by hand. This open-source LangGraph system classifies, prioritises and turns them into tickets, with a live dashboard. My benchmark of local vs hosted LLMs changed the model choice. |
-| **[VectorRAG backend](https://github.com/AmineBenz0/backend-assistant)** | Document processing, ChromaDB search and Azure OpenAI embeddings behind FastAPI, Celery and Docker Compose. |
 
 **Stack:** Python · FastAPI · LangGraph · ChromaDB · Elasticsearch · PostgreSQL · Redis · Next.js · Docker
 
