@@ -47,7 +47,7 @@ I built a fleet of specialised agents, then deleted it for a single model in a l
 | | |
 |---|---|
 | **[AI systems showcase](https://github.com/AmineBenz0/ai-systems-showcase)** | Architecture write-ups with diagrams for work whose code is private: Rezva, my ML projects and the helpdesk system. |
-| **[HelpDesk Multi-Agent System](https://github.com/AmineBenz0/HelpDesk_Multi_Agent_System)** | Stateful LangGraph agents that turn a support mailbox into routed tickets. My benchmark of local vs hosted LLMs changed the model choice. |
+| **[HelpDesk Multi-Agent System](https://github.com/AmineBenz0/HelpDesk_Multi_Agent_System)** | Support teams were sorting 50 to 200 incident emails a day by hand. This open-source LangGraph system classifies, prioritises and turns them into tickets, with a live dashboard. My benchmark of local vs hosted LLMs changed the model choice. |
 | **[VectorRAG backend](https://github.com/AmineBenz0/backend-assistant)** | Document processing, ChromaDB search and Azure OpenAI embeddings behind FastAPI, Celery and Docker Compose. |
 
 **Stack:** Python · FastAPI · LangGraph · ChromaDB · Elasticsearch · PostgreSQL · Redis · Next.js · Docker
