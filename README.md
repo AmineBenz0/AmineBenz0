@@ -73,7 +73,7 @@ I built a fleet of specialised agents, then deleted it for a single model in a l
 
 <br>
 
-- **Prediction pipeline (freelance):** daily-updated XGBoost / Random Forest ensemble, 86.3% accuracy and 0.954 AUC, with time-based validation to limit leakage.
+- **CS:GO match predictor (freelance):** an XGBoost / Random Forest ensemble predicting professional match outcomes, refreshed daily. 86.3% accuracy and 0.954 AUC on a chronological test split.
 - **Incident resolution time (DXC):** Random Forest on ServiceNow data, MSE 1.69, R² 0.54.
 - **Anomaly detection (HTBS):** Splunk and network traffic proof of concept.
 
