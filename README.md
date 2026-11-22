@@ -38,7 +38,7 @@ What makes it interesting is everything around the model: a queue that survives 
 
 **[The Multi-Agent System That Wanted to Be a Monolith](https://medium.com/@amine.benzaarit0/the-multi-agent-system-that-wanted-to-be-a-monolith-bbc76c8541dc)** · Medium, June 2026 · 27 min read
 
-I built a fleet of specialised agents, watched the seams between them break the product, then deleted it for a single model in a loop. What that taught me about how much to trust the model, and why a simple core only works with strict edges.
+I built a fleet of specialised agents, then deleted it for a single model in a loop. The bugs lived in the seams between the parts, not in the parts, and that changed how I decide what to trust a model with.
 
 ---
 
@@ -46,7 +46,7 @@ I built a fleet of specialised agents, watched the seams between them break the 
 
 | | |
 |---|---|
-| **[Rezva architecture](https://github.com/AmineBenz0/ai-systems-showcase/tree/main/rezva)** | System map, message flow, the limitations I hit and how I fixed each, and what is still not built. |
+| **[AI systems showcase](https://github.com/AmineBenz0/ai-systems-showcase)** | Architecture write-ups with diagrams for work whose code is private: Rezva, my ML projects and the helpdesk system. |
 | **[HelpDesk Multi-Agent System](https://github.com/AmineBenz0/HelpDesk_Multi_Agent_System)** | Stateful LangGraph agents that turn a support mailbox into routed tickets. My benchmark of local vs hosted LLMs changed the model choice. |
 | **[VectorRAG backend](https://github.com/AmineBenz0/backend-assistant)** | Document processing, ChromaDB search and Azure OpenAI embeddings behind FastAPI, Celery and Docker Compose. |
 
