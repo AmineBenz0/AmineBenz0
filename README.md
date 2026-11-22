@@ -69,7 +69,7 @@ Before agents I worked on classic ML, which still shapes how I evaluate AI syste
 
 ## Client work
 
-A back-office platform for a freelance client that replaced Excel workflows: ledger, stock and payments with an audit trail, JWT auth with roles, PostgreSQL triggers for traceability. FastAPI, React, Supabase/PostgreSQL, GitHub Actions gates and Vercel staging/production releases. (Private, client code.)
+An accounting platform for a poultry farm, tied to how the farm manages production. It replaced manual paper and Excel processes: ledger, stock and payments with an audit trail, JWT auth with roles, PostgreSQL triggers for traceability. FastAPI, React, Supabase/PostgreSQL, GitHub Actions gates and Vercel staging/production releases. (Private, client code.)
 
 ## Tools I reach for
 
