@@ -99,7 +99,16 @@ An accounting platform for a poultry farm, tied to how the farm manages producti
 
 ## Certifications
 
-Claude Certified Architect (Professional) · Claude Certified Developer (Foundations) · Microsoft Certified: Azure AI Fundamentals · AWS Certified AI Practitioner · Certificate of achievement, Data Scientist · Duolingo English Test
+| Certification | Issuer | Earned | Verify |
+|---|---|---|---|
+| Claude Certified Architect, Professional | Anthropic | Nov 2026 | [Credly](https://www.credly.com/badges/4fb77570-d89c-4280-8d52-a3e4b21e4bbb/public_url) |
+| Claude Certified Developer, Foundations | Anthropic | Sep 2026 | [Credly](https://www.credly.com/badges/2fb9eee4-67c3-4c14-8d80-af7f676c7fac/linked_in_profile) |
+| Claude Certified Associate, Foundations | Anthropic | Aug 2026 | [Credly](https://www.credly.com/badges/c3cf3d48-1896-4e1d-a993-428cc2ecbfed/linked_in_profile) |
+| Generative AI Leader | Google | Aug 2026 | [Credly](https://www.credly.com/badges/d9763717-157d-476c-89cf-ad67d3db1902/linked_in_profile) |
+| AWS Certified AI Practitioner | Amazon Web Services | Aug 2026 | [Credly](https://www.credly.com/badges/b8acfef3-3d26-4c0a-9e76-7005f6a38b06/linked_in_profile) |
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | Nov 2025 | [Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/BenzaaritMohamedAmine-6468/7F0ADFD67B2D1969?sharingId) |
+| Certificate of Achievement, Data Scientist | 365 Data Science | Nov 2024 | [Certificate](https://learn.365datascience.com/c/d0c7045059) |
+| Duolingo English Test | Duolingo | Mar 2024 | [Certificate](https://certs.duolingo.com/723e70128fa554c3a47e598d8f2a2095) |
 
 ## Work with me
 
