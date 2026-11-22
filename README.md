@@ -18,6 +18,8 @@ I like building things where AI, software and product meet. I started on the dat
 
 Today I'm an AI Engineer at DXC Technology, working on production AI systems. Outside work I build my own products. I'm drawn to problems where something still has to be figured out: making an AI system cheaper and faster, designing a more reliable architecture, or taking a product from a blank page to something real.
 
+**What I'm good at:** integration architecture, evaluation and optimisation, and technical solution design. In practice that means turning a loosely defined need into a working system, measuring it, and keeping it running after the first version.
+
 Engineering degree in Computer Science (Big Data & AI) from the International University of Rabat, with an exchange semester at the University of Ottawa. Arabic (native), English and French (full professional).
 
 ## What I'm building: Rezva
@@ -45,8 +47,20 @@ I work on a RAG and agentic-AI platform for a public-sector client, and on an en
 | Found memory and concurrency bottlenecks, guided async + Redis/Elasticsearch changes | **-69.7%** p95 first-chunk latency (13.6s → 4.1s, 4 virtual users) |
 | Hierarchical RAG context enrichment | Document and section summaries plus breadcrumbs added after ChromaDB retrieval, so answers keep the meaning of the source |
 | Adaptive query routing | Simple questions skip LLM rewriting and decomposition; complex ones keep the multi-step path |
+| Parallelised orchestration | Parts of the orchestration run in parallel to improve response time |
 | Tenant-scoped **MCP** tools | Per-client tool registry (PostgreSQL, Redis sync); the gateway checks allowed tools at execution time |
 | Production incident investigation | 40+ incidents on an enterprise assistant traced to root cause (parameter mapping, workflow errors) with Copilot Studio, Power Automate and Azure Application Insights |
+
+## Timeline
+
+| | |
+|---|---|
+| **2025 – now** | AI Engineer at DXC Technology (production RAG and agentic AI); building Rezva; freelance client platform (2026) |
+| **2024 – 2025** | Freelance ML engineer; AI/ML engineering intern at DXC (helpdesk multi-agent system); exchange semester at the University of Ottawa |
+| **2024** | Data science intern at DXC (incident-time prediction) |
+| **2023** | Cybersecurity & ML intern at HTBS (Splunk anomaly detection) |
+| **2022** | Information systems intern, customs administration |
+| **2020 – 2025** | Engineering degree, Big Data & AI, International University of Rabat |
 
 ## Projects you can open
 
@@ -58,7 +72,7 @@ I work on a RAG and agentic-AI platform for a public-sector client, and on an en
 
 ## Earlier work: machine learning and data
 
-Before agents I worked on classic ML, which still shapes how I evaluate AI systems.
+Before agents I worked on classic ML, which still shapes how I evaluate AI systems. Details and methods are in the [ML and data write-up](https://github.com/AmineBenz0/ai-systems-showcase/tree/main/ml-and-data).
 
 | When | What | Outcome |
 |---|---|---|
@@ -78,7 +92,8 @@ An accounting platform for a poultry farm, tied to how the farm manages producti
 | **Agents & LLMs** | LangGraph, LangChain, MCP, tool calling, Azure OpenAI, LLM benchmarking and evaluation |
 | **Retrieval** | ChromaDB, Elasticsearch, embeddings, reranking, adaptive query routing |
 | **Backend** | Python, FastAPI, asyncio, PostgreSQL, Redis (Streams), Celery, Alembic |
-| **Data & ML** | XGBoost, scikit-learn, feature engineering, time-based validation |
+| **Data & ML** | XGBoost, Random Forest, scikit-learn, feature engineering, cross-validation, time-based validation |
+| **Monitoring analytics** | Splunk (SPL, Machine Learning Toolkit), tcpdump |
 | **Frontend** | React, Next.js |
 | **Quality & ops** | Docker, GitHub Actions, pytest, Playwright, Langfuse, Sentry, Splunk, Grafana |
 
